@@ -1,1 +1,1 @@
-![Alt text](/Users/Jane/Documents/S__2523138.jpg)
+[Imgur](http://i.imgur.com/CVtrKvE.jpg)
