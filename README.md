@@ -15,4 +15,4 @@
 ![Alt text](http://imgur.com/i1HpxSu.jpg)
 <li><p>11/16 強韌圖</p></li>
 ![Alt text](http://i.imgur.com/NjdsYvD.jpg)
-![Alt text](http://i.imgur.com/aZ0NhRE.jpg)
+![Alt text](http://i.imgur.com/1ujturl.jpg)
