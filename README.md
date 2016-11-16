@@ -13,3 +13,6 @@
 <li><p>11/2 三、每個Use case的條列式描述</p></li>
 ![Alt text](http://imgur.com/hvidObK.jpg)
 ![Alt text](http://imgur.com/i1HpxSu.jpg)
+<li><p>11/16 強韌圖</p></li>
+![Alt text](http://i.imgur.com/NjdsYvD.jpg)
+![Alt text](http://i.imgur.com/aZ0NhRE.jpg)
