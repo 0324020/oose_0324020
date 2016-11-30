@@ -26,5 +26,5 @@
 開始操作之介面藍圖
 ![Alt text](http://imgur.com/dC2OaC7.jpg)
 ![Alt text](http://imgur.com/cuvxP77.jpg)
-娃娃機系統之匯總類別圖</p>
+
 ![Alt text](http://imgur.com/kquKHM8.jpg)
