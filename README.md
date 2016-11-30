@@ -20,6 +20,9 @@
 ![Alt text](http://imgur.com/k9KpkhP.jpg)
 <li><p>11/30 介面結構圖、行為狀態機圖、介面藍圖、介面詞彙</p></li>
 ![Alt text](http://imgur.com/OaxtSDB.jpg)
+登入之介面藍圖
+![Alt text](http://imgur.com/T1eA29u.jpg)
 ![Alt text](http://imgur.com/NvCXrXG.jpg)
+開始操作之介面藍圖
 ![Alt text](http://imgur.com/dC2OaC7.jpg)
 ![Alt text](http://imgur.com/cuvxP77.jpg)
