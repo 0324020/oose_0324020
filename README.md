@@ -18,7 +18,7 @@
 ![Alt text](http://i.imgur.com/1ujturl.jpg)
 <li><p>11/23 循序圖</p></li>
 ![Alt text](http://imgur.com/k9KpkhP.jpg)
-<li><p>11/30 介面結構圖、行為狀態機圖、介面藍圖、介面詞彙</p></li>
+<li><p>11/30 介面結構圖、行為狀態機圖、介面藍圖、介面詞彙、匯總類別圖</p></li>
 ![Alt text](http://imgur.com/OaxtSDB.jpg)
 登入之介面藍圖
 ![Alt text](http://imgur.com/T1eA29u.jpg)
@@ -26,3 +26,5 @@
 開始操作之介面藍圖
 ![Alt text](http://imgur.com/dC2OaC7.jpg)
 ![Alt text](http://imgur.com/cuvxP77.jpg)
+娃娃機系統之匯總類別圖
+![Alt text](http://imgur.com/kquKHM8.jpg)
