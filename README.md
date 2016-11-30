@@ -18,3 +18,8 @@
 ![Alt text](http://i.imgur.com/1ujturl.jpg)
 <li><p>11/23 循序圖</p></li>
 ![Alt text](http://imgur.com/k9KpkhP.jpg)
+<li><p>11/30 介面結構圖、行為狀態機圖、介面藍圖、介面詞彙</p></li>
+![Alt text](http://imgur.com/OaxtSDB.jpg)
+![Alt text](http://imgur.com/NvCXrXG.jpg)
+![Alt text](http://imgur.com/VNiIqCR.jpg)
+![Alt text](http://imgur.com/cuvxP77.jpg)
