@@ -28,3 +28,10 @@
 ![Alt text](http://imgur.com/cuvxP77.jpg)
 
 ![Alt text](http://imgur.com/kquKHM8.jpg)
+<li><p>12/21 Demo影片</p></li>
+![Alt text](https://youtu.be/4LlnX6GD_c0)
+<li><p>GitHub工作分配</p></li>
+0324020 陳昱蓁 : 50 %
+0324058 沈育賢 : 16 %
+0324051 徐皓韋 : 17 %
+0324061 陳柏邑 : 17 %
