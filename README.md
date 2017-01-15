@@ -28,6 +28,8 @@
 ![Alt text](http://imgur.com/cuvxP77.jpg)
 
 ![Alt text](http://imgur.com/kquKHM8.jpg)
+<li><p>1/15 元件圖</p></li>
+![Alt text](http://i.imgur.com/VzxywEg.jpg)
 <li><p>12/21 Demo影片</p></li>
 <a href="https://youtu.be/4LlnX6GD_c0">Demo影片</a>
 <li><p>GitHub工作分配</p></li>
